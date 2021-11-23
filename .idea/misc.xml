@@ -3,6 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Words/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Words/app/src/main/res/layout/fragment_letter_list.xml" value="0.25416666666666665" />
+        <entry key="..\:/Words/app/src/main/res/layout/fragment_letter_list1.xml" value="0.25416666666666665" />
+        <entry key="..\:/Words/app/src/main/res/layout/fragment_word_list.xml" value="0.25416666666666665" />
         <entry key="..\:/Words_starter_code/Words/app/src/main/res/layout/activity_main.xml" value="0.25" />
         <entry key="..\:/Words_starter_code/Words/app/src/main/res/menu/layout_menu.xml" value="0.13020833333333334" />
       </map>
